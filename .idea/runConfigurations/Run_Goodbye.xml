@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Goodbye" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="golang-cli-template" />
+    <working_directory value="$PROJECT_DIR$" />
+    <parameters value="goodbye" />
+    <kind value="PACKAGE" />
+    <package value="github.com/zoltan-magyar/golang-cli-template" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
